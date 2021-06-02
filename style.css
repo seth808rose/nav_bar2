@@ -19,7 +19,6 @@ nav {
   font-size: 2.1rem;
   cursor: pointer;
   color: black;
-
 }
 
 .list-group {
@@ -35,7 +34,6 @@ nav {
   color: #fff;
   font-size: 1.2rem;
   color: black;
-
 }
 
 .list-group li {
@@ -43,9 +41,9 @@ nav {
 }
 
 .big-image {
-  min-height: 88vh;
-  background: url(./images/photo-1587960893026-b721b7d5ee1f.jpg) center /
-    cover no-repeat;
+  min-height: 100vh;
+  background: url(./images/photo-1587960893026-b721b7d5ee1f.jpg) center / cover
+    fixed;
 }
 
 @media screen and (max-width: 789px) {
